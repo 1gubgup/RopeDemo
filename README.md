@@ -12,3 +12,5 @@
 4. 点击 Play 运行演示
 
 默认使用的是 AVBD，如果想切换求解器，请修改 Scripts/RopeController.cs 84~87行
+
+![粒子](https://github.com/user-attachments/assets/e442212e-eaaf-4124-aed3-964bc6af4181)
